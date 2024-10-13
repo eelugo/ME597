@@ -70,3 +70,9 @@ plt.show()
 # The program ends when you close the figure window.
 
 print("Testing")
+product = 1
+n = 5
+
+for i in range(n):
+    product *= (i + 1)
+    print()
