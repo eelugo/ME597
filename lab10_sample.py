@@ -68,3 +68,5 @@ cbar = fig.colorbar(img, ax=ax[1], format="%+2.0f dB")
 fig.suptitle(AGENT+SAMPLE+" sound signal for 1 second")
 plt.show()
 # The program ends when you close the figure window.
+
+print("Testing")
